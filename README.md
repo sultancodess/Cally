@@ -49,11 +49,7 @@
 
 ---
 
-## 📸 UI Sneak Peek
 
-*Coming soon...*
-
----
 
 ## 🤝 Contributing
 
