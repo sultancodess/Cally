@@ -36,19 +36,6 @@
 
 ---
 
-## 📦 Project Status
-
-🛠️ Currently developing the document upload flow and AI parsing logic.
-
-- [x] Project planning & design ✅  
-- [x] GitHub repo initialized ✅  
-- [ ] PDF/DOCX parser integration 🔄  
-- [ ] AI legal explanation logic ⏳  
-- [ ] Dashboard UI in progress 🎨  
-- [ ] MVP Launch 🔜
-
----
-
 
 
 ## 🤝 Contributing
