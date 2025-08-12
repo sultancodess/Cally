@@ -1,6 +1,6 @@
-# ⿤ Cally.in — AI WhatsApp News Bot
+# Cally.in — AI WhatsApp News Bot
 
-🚧 **Status:** Under Development  
+**Status:** Under Development  
 
 Cally.in is an **AI-powered WhatsApp service** that delivers **personalized daily news summaries** based on user-selected topics and preferences.  
 The bot fetches trending news, processes them using **Gemini API**, and delivers concise, easy-to-read digests directly to your WhatsApp.
@@ -24,4 +24,5 @@ The bot fetches trending news, processes them using **Gemini API**, and delivers
 - **Hosting:** Render / Railway / AWS
 
 ---
+
 
